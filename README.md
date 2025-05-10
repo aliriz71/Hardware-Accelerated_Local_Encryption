@@ -1,6 +1,10 @@
 # Hardware-Accelerated_Local_Encryption
-Wifi Access Point on Raspberry Pi Pico 2W to encrypt a 10 digit phone number with AES-128 on the DE10-lite board via SPI connection. 
+Wifi Access Point on Raspberry Pi Pico 2W to encrypt a 10 digit phone number with AES-128 on the DE10-lite board via SPI connection.
+ 
+###Images
+![](https://github.com/aliriz71/Hardware-Accelerated_Local_Encryption/blob/main/AES_Module_Report_.pdf)
 
+> Follow your heart.
 # To run this project
 **For the DE10-Lite**
 
