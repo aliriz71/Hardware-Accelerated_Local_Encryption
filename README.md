@@ -1,10 +1,6 @@
 # Hardware-Accelerated_Local_Encryption
-Wifi Access Point on Raspberry Pi Pico 2W to encrypt a 10 digit phone number with AES-128 on the DE10-lite board via SPI connection.
- 
-###Images
-![](https://github.com/aliriz71/Hardware-Accelerated_Local_Encryption/blob/main/AES_Module_Report_.pdf)
-
-> Follow your heart.
+Wifi Access Point on Raspberry Pi Pico 2W to encrypt a 10 digit phone number with AES-128 on the DE10-lite board via SPI connection. 
+Consider the attatched [report](https://github.com/aliriz71/Hardware-Accelerated_Local_Encryption/blob/main/AES_Module_Report_.pdf) for a deeper understanding of this project.
 # To run this project
 **For the DE10-Lite**
 
@@ -28,7 +24,7 @@ If you are using Thonny IDE (recommended it is free):
 Open apSet.py and make sure your ports are configured for Raspberry Pi Pico and device is inserted in BOOTSEL mode. 
 Run current script and you can view the IP and connected device in the Thonny terminal below.
 
-# To connect to the Pico's AP
+# To connect to the Pico AP
 Find the SSID Pico2W and enter the password "password". 
 Once connected, go into any browser and enter the IP in the URL, this will take you to the HTTP server hosted on the Pico.
-Enjoy! 
+ Enjoy! 
